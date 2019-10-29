@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.yellowdragon.libreelec.docker" name="LibreELEC Docker Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec.docker" name="LibreELEC Docker Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC Docker Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.docker/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -24,14 +24,14 @@
     </extension>
 </addon>
 
-<addon id="repository.yellowdragon.libreelec" name="LibreELEC Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec" name="LibreELEC Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -48,14 +48,14 @@
     </extension>
 </addon>
 
-<addon id="repository.yellowdragon.libreelec.emby" name="LibreELEC Emby Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec.emby" name="LibreELEC Emby Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC Emby Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.emby/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -72,14 +72,14 @@
     </extension>
 </addon>
 
-<addon id="repository.yellowdragon.libreelec.tv" name="LibreELEC TV Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec.tv" name="LibreELEC TV Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC TV Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tv/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -96,14 +96,14 @@
     </extension>
 </addon>
 
-<addon id="repository.yellowdragon.libreelec.kodi" name="LibreELEC Kodi Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec.kodi" name="LibreELEC Kodi Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC Kodi Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.kodi/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
@@ -120,14 +120,14 @@
     </extension>
 </addon>
 
-<addon id="repository.yellowdragon.libreelec.tools" name="LibreELEC Tools Yellow Dragon Repository" version="9.1" provider-name="YLLOW_DRAGON">
+<addon id="repository.yellowdragon.libreelec.tools" name="LibreELEC Tools Yellow Dragon Repository" version="9.2.0" provider-name="YLLOW_DRAGON">
     <requires>
         <import addon="xbmc.addon" version="12.0.0"/>
     </requires>
     <extension point="xbmc.addon.repository" name="LibreELEC Tools Yellow Dragon Repository">
-        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.1/repo/addons.xml</info>
-        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.1/repo/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.1/repo/</datadir>
+        <info compressed="false">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.2.0/repo/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.2.0/repo/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/nkvoronov/repository.yellowdragon.libreelec.tools/9.2.0/repo/</datadir>
         <hashes>false</hashes>
     </extension>
     <extension point="xbmc.addon.metadata">
